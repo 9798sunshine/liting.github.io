@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Ting Li
+
+~~~
+{}{img_left}{imgs/lt.jpg}{alt text}{150px}{200px}
+B.E. \n 
+Data Science and Big Data Technology \n
+[https://stxy.neuq.edu.cn/ School of Mathematics and Statistics] \n
+[https://www.neu.edu.cn/ Northeastern University] of China \n
+\n
+Phone: +86 15573839267 \n
+Email: neu179liting@gmail.com \n
+\[[CV.pdf CV]\] \n
+{{<a href="https://github.com/9798sunshine" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="imgs/github.svg" alt="" height="25px"></a>  
+<a href="https://www.zhihu.com/people/qiang-wei-hua-kai-23-15" target="&lt;u&gt;blank" title="zhihu" style="text-decoration:none;"><img src="imgs/zhihu.png" alt="" height="25px"></a>}}
+~~~
+
+== About me
+I'm currently an undergraduate student at [https://www.neu.edu.cn/ Northeastern University] in China, majoring in Data Science and Big Data Technology. 
+With a foundational grasp of programming and data analysis, I engage enthusiastically in mathematical modeling and have been honored with national accolades in this field. 
+Furthermore, I adeptly apply Hadoop and Machine Learning techniques for data processing and analysis, bolstered by a wealth of hands-on experience in technical projects. 
+My research primarily focuses on training large language models for traditional tasks like Information Extraction (IE), exploring ways to improve the precision of the extraction process.
+
+== Education
+- B.E. in Data Science and Big Data Technology, Northeastern University of China, Sep.2021 – Jun.2025 (expected)
+
+== Research Interests
+- Deep Learning, Large Language Model (LLM), Multimodal
+- Information Extraction (IE), Named Entity Recognition (NER), Event Extraction (EE), Relationship Extraction (RE).
+- Natural Language Processing, Word2Vec
